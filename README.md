@@ -1,1 +1,1 @@
-# aws
+# aws resources collection
